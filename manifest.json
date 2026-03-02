@@ -1,0 +1,15 @@
+{
+  "name": "TAYOU TENSEI",
+  "short_name": "TayouTensei",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#04060f",
+  "theme_color": "#c9a84c",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
